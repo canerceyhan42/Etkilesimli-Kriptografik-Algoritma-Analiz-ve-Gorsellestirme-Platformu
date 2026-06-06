@@ -73,28 +73,6 @@ Bu proje, Kriptografi ve Uygulamaları dersi final projesi kapsamında geliştir
 * ✅ Entropi kaynağı açıklaması
 * ✅ Güvenlik özellikleri açıklaması
 
----
-
-## 🆕 Yeni Özellikler
-
-### 🎬 İnteraktif Adım Kontrolü (Yeni!)
-* ✅ **İleri/Geri Sarma**: AES adımlarında ileri/geri gidebilme
-* ✅ **İlk/Son Adım**: Doğrudan ilk veya son adıma atlama
-* ✅ **Otomatik Oynatma**: Adımları otomatik olarak gösterme
-* ✅ **Hız Ayarı**: 500-5000 ms arası ayarlanabilir gecikme
-* ✅ **Adım Göstergesi**: "Adım: 3/6" formatında ilerleme
-
-### Kod Kalitesi İyileştirmeleri
-* ✅ **Docstring**: Tüm fonksiyonlar detaylı açıklamalarla
-* ✅ **Type Hints**: Python 3.8+ tip belirteçleri
-* ✅ **Modül Açıklamaları**: Her dosya için kapsamlı header
-* ✅ **Hata Yönetimi**: İyileştirilmiş exception handling
-
-### GUI İyileştirmeleri
-* ✅ **Dosya İşlemleri**: Plaintext dosyadan yükleme
-* ✅ **Kopyalama**: Sonuçları panoya kopyalama (pyperclip)
-* ✅ **Kaydetme**: Çıktıları dosyaya kaydetme
-* ✅ **Çoklu Butonlar**: Encrypt, Decrypt, Visualize, Analyze
 
 ---
 
